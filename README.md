@@ -16,7 +16,7 @@ The official J Tech integration by AlexOwl:
 
 [https://github.com/AlexOwl/jtechdigital-ha](https://github.com/AlexOwl/jtechdigital-ha)
 
-uses the `pyjtechdigital` library and expects a functional JSON login API.
+Expects a functional JSON login API.
 However, many matrix units:
 
 * Return `None` or malformed JSON
