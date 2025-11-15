@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/N2Nathan/JTech-HomeAssistant/blob/main/JTechRaw.jpg?raw=true" width="600" alt="JTech Raw Logo">
+</p>
+
 # J Tech Matrix Raw Integration for Home Assistant
 
 A lightweight, reliable Home Assistant integration for controlling **J Tech HDMI matrix switches** using raw TCP commands over port 5000.
